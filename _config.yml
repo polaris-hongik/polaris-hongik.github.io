@@ -24,8 +24,8 @@ description              : "2019 Photo Exhibition"
 url                      : "polaris-hongik.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "polaris-hongik/polaris-hongik.github.io"
-teaser                   : "/assets/logo/logo_w.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # /assets/images# path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/logo/logo_w.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
