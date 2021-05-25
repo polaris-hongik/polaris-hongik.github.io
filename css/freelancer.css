@@ -6214,8 +6214,9 @@ button.bg-primary:focus {
   background-color: #148f77 !important;
 }
 
+//배경색
 .bg-secondary {
-  background-color: #EEE2B2 !important;
+  background-color: #8D22FF !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
